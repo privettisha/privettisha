@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media1.tenor.com/m/gc8cJmmK1LEAAAAd/neon-cat-israel.gif" width="40%" alt="Banner">
+</div>
 
-<!--
-**privettisha/privettisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🎓 Study at **S21**.
+* 🐧 Love Linux.
+* ⚙️ What can I do? I don't know..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My micro projects
+* **Lepton** — *****
+* **Игнат** — Discord bot for my boys.
+* **Alice** — Novelle 18+(TOP SECRET)
+
+---
+
+### 🚀 Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,arch,linux,react,fastapi,pytorch,c,lua" />
+  </a>
+</p>
+
+---
+
+### 🎯 Current Focus
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=33FF33&width=435&lines=Preparing+For+Data+Science;Building+Custom+Bots;Arch+Linux+User" alt="Typing SVG" />
+</p>
+
+---
+
+### 📲 Contact
+* [Telegram](https://t.me/monfori)
+* [S21 profile](https://platform.21-school.ru/my-profile)
+* [Steam](https://steamcommunity.com/profiles/76561199063814318/)
+* [Spotify](https://open.spotify.com/user/31f57kjdn2evmnvpcvf5jhp3axzq?si=7a3e78f5e4994221)
+* [PrivetShop](https://privet.keys.shop/)
