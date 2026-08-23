@@ -21,10 +21,9 @@
 ### 🚀 Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,arch,linux,react,fastapi,pytorch,c,lua" />
+    <img src="https://skillicons.dev/icons?i=python,arch,pytorch,tensorflow,hf,fastapi,docker" />
   </a>
 </p>
-
 ---
 
 ### 🎯 Current Focus
