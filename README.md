@@ -21,7 +21,7 @@
 ### 🚀 Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,arch,pytorch,tensorflow,hf,fastapi,docker" />
+    <img src="https://skillicons.dev/icons?i=python,arch,pytorch,tensorflow,sklearn,fastapi,docker" />
   </a>
 </p>
 ---
