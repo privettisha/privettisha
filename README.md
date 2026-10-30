@@ -13,8 +13,8 @@
 
 ### 🛠️ My micro projects
 * **Lepton** — *****
-* **Игнат** — Discord bot for my boys.
-* **Alice** — Novelle 18+(TOP SECRET)
+* **PrivetDNS** — DNS service for AI.
+* **Alice** — Novelle(TOP SECRET)
 
 ---
 
@@ -35,6 +35,7 @@
 ---
 
 ### 📲 Contact
+* [PrivetDNS](https://privetdns.ru/)
 * [Telegram](https://t.me/monfori)
 * [S21 profile](https://platform.21-school.ru/my-profile)
 * [Steam](https://steamcommunity.com/profiles/76561199063814318/)
