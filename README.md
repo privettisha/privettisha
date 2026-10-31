@@ -6,15 +6,14 @@
 
 ### 👨‍💻 About Me
 * 🎓 Study at **S21**.
-* 🐧 Love Linux.
-* ⚙️ What can I do? I don't know..
+* 🐧 Linux.
+* ⚙️ What..
 
 ---
 
 ### 🛠️ My micro projects
-* **Lepton** — *****
 * **PrivetDNS** — DNS service for AI.
-* **Alice** — Novelle(TOP SECRET)
+* **PrivetZapret** — Bypassing YouTube, Telegram, and Discord blocks.
 
 ---
 
