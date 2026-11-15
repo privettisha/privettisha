@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Death in June banner">
+  <img src="https://media1.tenor.com/m/PKQz3kmo2akAAAAd/welcome.gif" width="40%" alt="Banner">
 </div>
 
 ---
