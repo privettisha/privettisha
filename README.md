@@ -4,20 +4,20 @@
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 Study at **S21**.
-* 🐧 Linux.
-* ⚙️ What..
+### About Me
+* Study at **S21**.
+* Linux.
+* What..
 
 ---
 
-### 🛠️ My micro projects
+### My micro projects
 * **PrivetDNS** — DNS service for AI.
 * **PrivetZapret** — Bypassing YouTube, Telegram, and Discord blocks.
 
 ---
 
-### 🚀 Stack
+### Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,arch,pytorch,tensorflow,sklearn,fastapi,docker" />
@@ -26,14 +26,14 @@
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=33FF33&width=435&lines=Preparing+For+Data+Science;Building+Custom+Bots;Arch+Linux+User" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📲 Contact
+### Contact
 * [PrivetDNS](https://privetdns.ru/)
 * [Telegram](https://t.me/monfori)
 * [S21 profile](https://platform.21-school.ru/my-profile)
