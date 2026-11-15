@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/PKQz3kmo2akAAAAd/welcome.gif" width="40%" alt="Banner">
+  <img src="https://media1.tenor.com/m/PKQz3kmo2akAAAAd/welcome.gif" width="60%" alt="Banner">
 </div>
 
 ---
