@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/gc8cJmmK1LEAAAAd/neon-cat-israel.gif" width="40%" alt="Banner">
+  <img src="https://media1.tenor.com/m/gc8cJmmK1LEAAAAd/neon-cat-israel.gif](https://media1.tenor.com/m/mwUgOs2hZHkAAAAd/death-in-june.gif" width="40%" alt="Banner">
 </div>
 
 ---
