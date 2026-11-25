@@ -5,16 +5,16 @@
 ---
 
 ### About Me
-* Study at **S21**.
+* 20 y.o.
 * Linux.
-* What..
+* DONT SLEEP
 
 ---
 
 ### My micro projects
 * **PrivetDNS** — DNS service for AI.
 * **PrivetZapret** — Bypassing YouTube, Telegram, and Discord blocks.
-
+* **ETC.**
 ---
 
 ### Stack
@@ -35,8 +35,7 @@
 
 ### Contact
 * [PrivetDNS](https://privetdns.ru/)
-* [Telegram](https://t.me/monfori)
-* [S21 profile](https://platform.21-school.ru/my-profile)
+* [Telegram](https://t.me/PRIVET_DNS)
 * [Steam](https://steamcommunity.com/profiles/76561199063814318/)
 * [Spotify](https://open.spotify.com/user/31f57kjdn2evmnvpcvf5jhp3axzq?si=7a3e78f5e4994221)
 * [PrivetShop](https://privet.keys.shop/)
